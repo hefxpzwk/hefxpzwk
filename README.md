@@ -14,10 +14,10 @@ We find the world’s problems — and we solve them.
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_ID">
+  <a href="https://twitter.com/bbiribarabu">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOUR_ID">
+  <a href="https://instagram.com/bbiribarabu">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_ID">
