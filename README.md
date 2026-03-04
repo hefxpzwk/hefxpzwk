@@ -9,6 +9,13 @@ and solves it by **any means necessary**.
 We don’t just build software.  
 We find the world’s problems — and we solve them.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hefxpzwk&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hefxpzwk&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
