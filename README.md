@@ -1,67 +1,68 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=HEFXPZWK&fontSize=55&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=32&center=true&vCenter=true&width=900&lines=Builder;Creating+Systems;From+Idea+to+Reality" />
-</p>
+# hefxpzwk
 
----
+### Think → Design → Build
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hefxpzwk&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hefxpzwk&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+the+Future;From+Idea+to+Reality;Initium+Labs" />
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hefxpzwk&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+### 🧠
+
+Ideas are cheap.  
+Execution is everything.
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://metrics.lecoq.io/hefxpzwk?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FSeoul" />
-</p>
+<div align="center">
+
+### 3D Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hefxpzwk&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hefxpzwk&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
+<div align="center">
+
+### 🦆 Duck
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-<img src="https://github.com/hefxpzwk/hefxpzwk/blob/output/github-contribution-grid-snake.svg" />
-</p>
+### ⚡ GitHub Stats
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hefxpzwk&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🌌 3D Contribution Graph
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hefxpzwk&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+</div>
 
 ---
 
-## 🦆 Duck
+<div align="center">
 
-<p align="center">
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120">
-</p>
+### 🚀
 
----
+From Idea → System → Reality
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
-</p>
+</div>
