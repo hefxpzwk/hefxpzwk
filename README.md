@@ -10,8 +10,7 @@ We don’t just build software.
 We find the world’s problems — and we solve them.
 
 ---
-
-### 🔗 Connect with me
+### 🔗 Connect with me 
 
 <p align="center">
   <a href="https://twitter.com/bbiribarabu">
@@ -23,4 +22,7 @@ We find the world’s problems — and we solve them.
   <a href="https://linkedin.com/in/YOUR_ID">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hefxpzwk&label=Visitors&color=grey&style=flat-square" />
 </p>
